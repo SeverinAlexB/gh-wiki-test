@@ -1,4 +1,3 @@
 - [Home](Home)
 - [Implementation Notes](Implementation-Notes)
-- [Services Running LSPSpec](Services)
 - [Wiki Contributions](Wiki-Contributions)
