@@ -1,2 +1,2 @@
 - [Home](Home)
-- [Wiki Contributions](Wiki Contributions)
+- [Wiki Contributions](Wiki-Contributions)
