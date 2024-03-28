@@ -1,3 +1,1 @@
-**Non-normative**
-
-This is the home wiki page.
+Welcome to the LSPSpec wiki!
