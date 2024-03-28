@@ -1,3 +1,3 @@
-This is the home wiki page.
+**Non-normative**
 
-Update: 1
+This is the home wiki page.
